@@ -10,3 +10,5 @@ faqapigateway : | FAQ Microservice | Amazon API Gateway, Lambda Function, AWS Cl
 
 ## FAQ Microservice (API Gateway endpoints)
 ...ci/cd in progress
+
+![faqapigateway000.png](./media/faqapigateway000.png)
